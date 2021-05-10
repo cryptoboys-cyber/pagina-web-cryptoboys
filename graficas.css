@@ -1,0 +1,71 @@
+* { 
+    margin:5;
+    padding:5;
+}
+a:link, a:visited, a:hover, a:active {
+  color:white;
+  font-size:16px;
+}
+body {
+    background:"aourus.jpg";
+    font-family:verdana;
+}
+h1 {
+    color:#c0c;
+    font-size:24px;
+}
+p {
+  font-size:16px;
+  color: white;
+}
+ul {
+    list-style-type:none;
+}
+sub{
+    color: white;
+}
+ul{
+    color: white;
+    font-size: 18px;
+}
+h2 {
+    color:#white;
+    font-size:30px;
+}
+#cabecera {
+        color:#ff9;
+        background-color: #1BA28C;
+        padding:5px;
+      }
+      #contenedor {
+        margin:0 auto;
+        width:900px;
+      }
+      #contenido {
+        float:left;
+        height:2000px;
+        padding:5px;
+        width:660px;
+      }
+      #menu {
+        background-color:#4BDA49  ;
+        float:left;
+        height:3200px;
+        padding:5px;
+        width:150px;
+      }
+      #galeria{
+        
+        padding:5px;
+        text-align:center;
+        clear:both;
+
+
+      }
+      #pie { 
+        background-color: #1BA28C;
+        clear:both;
+        color:#900;
+        padding:5px;
+        text-align:center;
+      }
